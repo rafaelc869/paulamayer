@@ -1,0 +1,6 @@
+[04-Oct-2017 13:05:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seba/public_html/wp-admin/includes/template.php:2020) in /home/seba/public_html/wp-includes/pluggable.php on line 1210
+[25-Oct-2017 21:23:59 UTC] PHP Warning:  Unknown: Input variables exceeded 1640. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Oct-2017 21:40:19 UTC] PHP Warning:  Unknown: Input variables exceeded 1640. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Oct-2017 21:45:05 UTC] PHP Warning:  Unknown: Input variables exceeded 1640. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[15-Jan-2018 19:03:59 UTC] PHP Fatal error:  Out of memory (allocated 23592960) (tried to allocate 12288 bytes) in /home/seba/public_html/wp-content/plugins/js_composer/include/helpers/helpers.php on line 619
+[15-Jan-2018 20:12:30 UTC] PHP Fatal error:  Out of memory (allocated 45088768) (tried to allocate 32 bytes) in /home/seba/public_html/wp-includes/pomo/mo.php on line 297
